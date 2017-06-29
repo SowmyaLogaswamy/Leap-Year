@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="LeapYearTest" tests="4" skipped="0" failures="0" errors="0" timestamp="2017-06-29T16:53:00" hostname="epicodus-8.local" time="0.001">
+  <properties/>
+  <testcase name="isLeapYear_forNumberNotDivisibleByFour_false" classname="LeapYearTest" time="0.001"/>
+  <testcase name="isLeapYear_forNumberDivisibleByFour_true" classname="LeapYearTest" time="0.0"/>
+  <testcase name="isLeapYear_forNumberDivisibleByHundred_false" classname="LeapYearTest" time="0.0"/>
+  <testcase name="isLeapYear_forNumberDivisibleByFourHundred_true" classname="LeapYearTest" time="0.0"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
